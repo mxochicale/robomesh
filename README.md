@@ -24,7 +24,7 @@ Researchers, developers and robotics enthusiasts are welcome!
 - 🛠️ Contribute code and documentation.
 - 🌍 Build and demonstrate together.
 
-**Getting started:** [Community Roadmap](docs/roadmap.md) · [Good First Issues](https://github.com/mxochicale/robomesh/issues/)
+**Getting started:** [Community Roadmap](docs/roadmap.md) · [Good First Issues](https://github.com/mxochicale/robomesh/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22)
 
 💬 [Join the discussion](https://github.com/mxochicale/robomesh/discussions)
 
