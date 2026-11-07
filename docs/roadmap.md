@@ -20,3 +20,8 @@ flowchart LR
     style D fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px,color:#4a148c
     style E fill:#eceff1,stroke:#546e7a,stroke-width:2px,color:#263238
 ```
+
+## References
+* FOSDEM2027: https://robotics-devroom.github.io/cfp/fosdem27.html
+* Hacking cyber-physical systems: https://github.com/UCL-CyberPhysicalSystems/hackathon-01
+* Hamlyn-MRC Joint Symposium 2027: https://www.hamlynsymposium.org/
