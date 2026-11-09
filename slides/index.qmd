@@ -108,9 +108,9 @@ format:
 
 </span>
 
-[ [**AuthorA**](http://name-surname.github.io/),
-[**AuthorB**](http://name-surname.github.io/),
-[**AuthorC**](http://name-surname.github.io/) ·
+[ [**Tomoya Fujita**](http://name-surname.github.io/),
+[** Rafael Arrais**](http://name-surname.github.io/),
+[**Miguel Xochicale**](http://name-surname.github.io/) ·
 [OrgA, OrgB, OrgC](https://www.ucl.ac.uk/advanced-research-computing/)
 ]{style="font-size:0.55em; color:#b7bdc9;"}
 
